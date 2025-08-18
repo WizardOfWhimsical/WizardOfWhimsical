@@ -23,7 +23,13 @@ This isn't just a career path — it's a personal mission. I'm here to learn, bu
 
 --- 
 ## 📈 GitHub Stats
-**Coming Soon**
+![Wizard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WizardOfWhimsical&show_icons=true&theme=tokyonight)
+
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WizardOfWhimsical&layout=compact&theme=tokyonight&hide_border=true)
+
+<!-- Streak stats (optional) -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=WizardOfWhimsical&theme=tokyonight)
 
 --- 
 
