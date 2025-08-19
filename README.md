@@ -37,7 +37,7 @@ This isn't just a career path — it's a personal mission. I'm here to learn, bu
 
 ## 🌟 Projects & Work
 ### **Current Projects** 
-- 🌙 **[CTD Portfolio](https://github.com/WizardOfWhimsical/Stephen-R-Lewis-Luna)**
+- 🌙 **[CTD Portfolio](https://github.com/WizardOfWhimsical/Stephen-R-Lewis-Luna)** :technologist: [Stephen Lewis](https://wizardofwhimsical.github.io/Stephen-R-Lewis-Luna/)
 <!-- - 💻 **[Full Back-End Write](https://github.com/WizardOfWhimsical/SodaDiner)** -->
 - 🤝 **[CTD JS Basics](https://github.com/WizardOfWhimsical/CTD)**
 
