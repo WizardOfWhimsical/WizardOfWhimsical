@@ -2,7 +2,20 @@
 ## About Me 
   I started coding in 2023 through [The Last Mile](https://thelastmile.org/), where I spent almost a year gaining experience with **Node.js**, **Express**, **MongoDB**, and **Mongoose**. That foundation gave me a deep respect for backend logic — and for the struggle of learning something totally new.
 
-Now, I’m continuing my education with [Code the Dream](https://codethedream.org/), where I will be learning **React** and sharpening my frontend skills to complete the full stack.
+I just wrapped up my Intro to Programming course with [Code the Dream](https://codethedream.org/), and I’m gearing up for the next phase—diving into React and pushing towards full-stack development.  My latest project? A front-end portfolio powered by an open Marvel API. Proud of that one.
+
+Most evenings, you’ll find me working as a Line Cook at [Mill Creek Tavern](http://themillcreektavern.com)—cooking up plates by night, and code by (late) night. When the kitchen closes, the laptop opens.  During the day, I study, read, and (more often than not) find myself in Slack or Discord helping newer students.  We’ve all had to stare down that imposter syndrome. Nobody gets here by accident. I like showing folks how to problem-solve, check the docs, research, and own their place at the table.
+
+Along the way, I’ve made a lot of network connections—let’s be real, friends 😉—and it’s wild to see how fast this community can grow when we help each other level up.
+The evening class sessions, open chats, and “everyone’s welcome” vibe have made learning here actually fun. Tech isn’t just a job to me—it’s a personal mission.
+If you ever see me in a tutoring session, odds are you’ll catch some code, a little laughter, and a reminder that building cool things together is what this era is all about.
+
+
+
+
+
+
+Now, I’m continuing my education with , where I will be learning **React** and sharpening my frontend skills to complete the full stack.
 
 By day, I work full-time as a Line Cook at **Mill Creek Tavern**. By night, I study, build, and help mentor others. I run casual tutoring sessions for newer students to help them push past imposter syndrome — something we all know too well. Teaching helps me stay sharp and give back at the same time.
 
