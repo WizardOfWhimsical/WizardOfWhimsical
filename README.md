@@ -4,7 +4,7 @@
 
 Now, I’m continuing my education with [Code the Dream](https://codethedream.org/), where I will be learning **React** and sharpening my frontend skills to complete the full stack.
 
-By day, I work full-time as a **trainer at Pizza Ranch**. By night, I study, build, and help mentor others. I run casual tutoring sessions for newer students to help them push past imposter syndrome — something we all know too well. Teaching helps me stay sharp and give back at the same time.
+By day, I work full-time as a Line Cook at **Mill Creek Tavern**. By night, I study, build, and help mentor others. I run casual tutoring sessions for newer students to help them push past imposter syndrome — something we all know too well. Teaching helps me stay sharp and give back at the same time.
 
 This isn't just a career path — it's a personal mission. I'm here to learn, build, and to help open the door for other in underprivileged communities into tech.
 
