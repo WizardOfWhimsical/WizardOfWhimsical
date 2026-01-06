@@ -4,7 +4,7 @@
 
 I just wrapped up my Intro to Programming course with [Code the Dream](https://codethedream.org/), and I’m gearing up for the next phase—diving into React and pushing towards full-stack development.  My latest project? A front-end portfolio powered by an open Marvel API. Proud of that one.
 
-Most evenings, you’ll find me working as a Line Cook at [Mill Creek Tavern](http://themillcreektavern.com)—cooking up plates by night, and code by (late) night. When the kitchen closes, the laptop opens.  During the day, I study, read, and (more often than not) find myself in Slack or Discord helping newer students.  We’ve all had to stare down that imposter syndrome. Nobody gets here by accident. I like showing folks how to problem-solve, check the docs, research, and own their place at the table.
+Most evenings, you’ll find me working as a Line Cook at [Mill Creek Tavern](http://themillcreektavern.com)—cooking up plates by night, and code by the wee morning hours. When the kitchen closes, the laptop opens.  During the day, I study, read, and (more often than not) find myself in Slack or Discord helping newer students.  We’ve all had to stare down that imposter syndrome. Nobody gets here by accident. I like showing folks how to problem-solve, check the docs, research, and own their place at the table.
 
 Along the way, I’ve made a lot of network connections—let’s be real, friends 😉—and it’s wild to see how fast this community can grow when we help each other level up.
 The evening class sessions, open chats, and “everyone’s welcome” vibe have made learning here actually fun. Tech isn’t just a job to me—it’s a personal mission.
