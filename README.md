@@ -27,6 +27,7 @@ If you ever see me in a tutoring session, odds are you’ll catch some code, a l
 
 --- 
 ## 📈 GitHub Stats
+
 ![Wizard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WizardOfWhimsical&show_icons=true&theme=tokyonight)
 
 <!-- Top languages -->
