@@ -32,7 +32,7 @@ If you ever see me in a tutoring session, odds are you’ll catch some code, a l
 <!-- Top languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WizardOfWhimsical&layout=compact&theme=tokyonight&hide_border=true)
 
-<!-- Streak stats (optional) -->
+<!-- Streak stats   -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=WizardOfWhimsical&theme=tokyonight)
 
 --- 
