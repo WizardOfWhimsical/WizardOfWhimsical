@@ -2,7 +2,7 @@
 ## About Me 
   I started coding in 2023 through [The Last Mile]( https://thelastmile.org/ ), where I spent almost a year gaining experience with **Node.js**, **Express**, **MongoDB**, and **Mongoose**.  I picked up the core tools of web development with HTML, CSS (and Bootstrap), JS ( JQuery ) and started building full-stack applications.  That foundation gave me a a lnew understanding of the tech the world uses (and we live in).
 
-I continued my path with [Code The Dream]( https://codethedream.org/ ), focusing deeper on the React front-end development.  After completing that cohort, I stayed on as a colunteer tutor, helping students with 1:1 mentoring, code reviews, and reinforcing GitHub best practices as they build their own projects.  The shift into the more structured systems of back-end operations, querying, and security have been, well intuitive ( and fun to learn ).
+I continued my path with [Code The Dream]( https://codethedream.org/ ), focusing deeper on the React front-end development.  After completing that cohort, I stayed on as a volunteer tutor, helping students with 1:1 mentoring, code reviews, and reinforcing GitHub best practices as they build their own projects.  The shift into the more structured systems of back-end operations, querying, and security have been, well intuitive ( and fun to learn ).
 
 Right now I am working through backend development with Node/Express adding PostgreSQL and Prisma's ORM to my stack of knowledge. Picking up Postman API test writing and Jest tests ( having history with Mocha helped ) to do isolation tests on controllers and routes.
 
