@@ -1,14 +1,14 @@
-# 👋 Hello World! I'm Stephen Lewis 
+# 👋 Hello World! I'm Stephen Lewis
 ## About Me 
-  I started coding in 2023 through [The Last Mile](https://thelastmile.org/), where I spent almost a year gaining experience with **Node.js**, **Express**, **MongoDB**, and **Mongoose**. That foundation gave me a deep respect for backend logic — and for the struggle of learning something totally new.
+  I started coding in 2023 through [The Last Mile]( https://thelastmile.org/ ), where I spent almost a year gaining experience with **Node.js**, **Express**, **MongoDB**, and **Mongoose**.  I picked up the core tools of web development with HTML, CSS (and Bootstrap), JS ( JQuery ) and started building full-stack applications.  That foundation gave me a a lnew understanding of the tech the world uses (and we live in).
 
-I just wrapped up my Intro to Programming course with [Code the Dream](https://codethedream.org/), and I’m gearing up for the next phase—diving into React and pushing towards full-stack development.  My latest project? A front-end portfolio powered by an open Marvel API. Proud of that one.
+I continued my path with [Code The Dream]( https://codethedream.org/ ), focusing deeper on the React front-end development.  After completing that cohort, I stayed on as a colunteer tutor, helping students with 1:1 mentoring, code reviews, and reinforcing GitHub best practices as they build their own projects.  The shift into the more structured systems of back-end operations, querying, and security have been, well intuitive ( and fun to learn ).
 
-Most evenings, you’ll find me working as a Line Cook at [Mill Creek Tavern](http://themillcreektavern.com)—cooking up plates by night, and code by the wee morning hours. When the kitchen closes, the laptop opens.  During the day, I study, read, and (more often than not) find myself in Slack or Discord helping newer students.  We’ve all had to stare down that imposter syndrome. Nobody gets here by accident. I like showing folks how to problem-solve, check the docs, research, and own their place at the table.
+Right now I am working through backend development with Node/Express adding PostgreSQL and Prisma's ORM to my stack of knowledge. Picking up Postman API test writing and Jest tests ( having history with Mocha helped ) to do isolation tests on controllers and routes.
 
-Along the way, I’ve made a lot of network connections—let’s be real, friends 😉—and it’s wild to see how fast this community can grow when we help each other level up.
-The evening class sessions, open chats, and “everyone’s welcome” vibe have made learning here actually fun. Tech isn’t just a job to me—it’s a personal mission.
-If you ever see me in a tutoring session, odds are you’ll catch some code, a little laughter, and a reminder that building cool things together is what this era is all about.
+As I am continuing my journey, I will be going into Code the Dreams, Practicum. Learning to work as a real team member and gain that experience to become abeeter collaborative team member. Then I have enroll in my local community college ( GRCC ) to further pursue my Bacholers in Software Engineering starting this fall. 
+
+Outside of code, i go by Lewis while playing disc golf with my firends at one of our many local parks. While I do spend alot of time at my computer, I do enjoy a good game to start the day. Otherwise I am helping students with their assignments or doing my own. At the moment, I’m focused on building experience through small contract work, data annotation roles, and entry-level development opportunities while continuing to study and grow my skills. 
 
 --- 
 
@@ -19,11 +19,20 @@ If you ever see me in a tutoring session, odds are you’ll catch some code, a l
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) 
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ### **Backend Development** 
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
   ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+  ## **Testing & API Tools**
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+  ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 --- 
 ## 📈 GitHub Stats
