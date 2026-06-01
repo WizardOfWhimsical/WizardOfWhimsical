@@ -36,12 +36,12 @@ Outside of code, i go by Lewis while playing disc golf with my firends at one of
 
 --- 
 ## 📈 GitHub Stats
-
+<!--
 ![Wizard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WizardOfWhimsical&show_icons=true&theme=tokyonight)
 
 <!-- Top languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WizardOfWhimsical&layout=compact&theme=tokyonight&hide_border=true)
-
+-->
 <!-- Streak stats   -->
 ![GitHub Streak](https://streak-stats.demolab.com/?user=WizardOfWhimsical&theme=tokyonight)
 
@@ -51,7 +51,7 @@ Outside of code, i go by Lewis while playing disc golf with my firends at one of
 ### **Current Projects** 
 - 🌙 **[CTD Portfolio](https://github.com/WizardOfWhimsical/Stephen-R-Lewis-Luna)** :technologist: [Stephen Lewis](https://wizardofwhimsical.github.io/Stephen-R-Lewis-Luna/)
 <!-- - 💻 **[Full Back-End Write](https://github.com/WizardOfWhimsical/SodaDiner)** -->
-- 🤝 **[CTD JS Basics](https://github.com/WizardOfWhimsical/CTD)**
+- 🤝 **[Porfolio React Todo app ](https://todo-list-ctd.onrender.com)**
 
 ---
 
